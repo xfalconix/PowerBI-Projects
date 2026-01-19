@@ -13,8 +13,9 @@ As a data analyst for Maven Toys, a toy store chain with multiple store location
 -The data: transactional records from January 2022 to September 2023, along with info about products and store locations
 
 -The development:
--- Connect and profile the data
--- Create a relational model
--- Add Calculated measures and fields
--- Build an interactive report
+. Connect and profile the data
+. Create a relational model
+. Add Calculated measures and fields
+. Build an interactive report
+
 ----------------------------------------
